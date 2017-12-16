@@ -1,0 +1,120 @@
+* {
+  margin: 0px;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+  background-image: url("https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cg_face%2Ch_170%2Cq_80%2Cw_300/MTQ1MTQwNDI1NzYwNDQ5OTQ0/william-shakespeare---the-life-of-the-bard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 15%;
+  padding-top: 30%;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 75px;
+  line-height: 200px;
+}
+
+h2 {
+  font-size: 60px;
+  padding: 20px 0;
+}
+
+h3 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 25px;
+}
+
+
+ul {
+    list-style-type: none;
+    text-align: right;
+}
+
+nav {
+    padding: 10px;
+    background-color: #008c7a;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+}
+
+a {
+    display: block;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+div {
+  text-align: center;
+  padding: 25px;
+}
+
+section {
+  padding: 50px;
+  height: 350px;
+  border-bottom: solid;
+  border-bottom-color: #b5b5b5;
+  border-bottom-width: 2px;
+}
+
+#hamlet {
+  background-color: #ffffff;
+
+}
+
+#macbeth {
+  background-color: #eafcfd;
+
+}
+
+#like {
+  background-color: #ffffff;
+
+}
+
+#tempest {
+  background-color: #eafcfd;
+
+}
+
+img {
+  height: 350px;
+  float: left;
+  margin: 0px 25px;
+
+}
+
+.tickets {
+  font-weight: bold;
+  margin-top: 20px;
+  color: black;
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  background-color: white;
+  height: 100px;
+  padding: 20px;
+}
+
+footer p {
+    font-size: 16px;
+    color: gray;
+}
